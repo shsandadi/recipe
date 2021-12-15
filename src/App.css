@@ -42,3 +42,9 @@
   color: green;
   cursor: pointer;
 }
+.app__recipes{
+  margin-top: 24px;
+  display: grid;
+  grid-template-columns: 220px 220px;
+  align-items: baseline;
+}
